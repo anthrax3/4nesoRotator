@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageHandler", "ImageHandler\ImageHandler.csproj", "{ECFB83C4-7229-41FB-9AC8-9E666D1FFF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECFB83C4-7229-41FB-9AC8-9E666D1FFF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFB83C4-7229-41FB-9AC8-9E666D1FFF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFB83C4-7229-41FB-9AC8-9E666D1FFF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFB83C4-7229-41FB-9AC8-9E666D1FFF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

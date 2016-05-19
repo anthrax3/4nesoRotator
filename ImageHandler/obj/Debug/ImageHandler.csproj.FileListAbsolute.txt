@@ -1,0 +1,20 @@
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ImageHandler\ImageHandler\bin\Debug\ImageHandler.exe
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ImageHandler\ImageHandler\bin\Debug\ImageHandler.pdb
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.csprojResolveAssemblyReference.cache
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.Form1.resources
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.Properties.Resources.resources
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.csproj.GenerateResource.Cache
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.exe
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.pdb
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.FormViewer.resources
+C:\Users\_GersyWin_\Documents\Visual Studio 2012\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.Form2.resources
+D:\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.csprojResolveAssemblyReference.cache
+D:\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.Form1.resources
+D:\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.FormViewer.resources
+D:\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.csproj.GenerateResource.Cache
+D:\Projects\ImageHandler\ImageHandler\obj\Debug\ImageHandler.Formaboutdev.resources
+D:\Projects\ImageHandler\ImageHandler\obj\Debug\_4nesoRotator.Properties.Resources.resources
+D:\Projects\ImageHandler\ImageHandler\bin\Debug\_4nesoRotator_v2.exe
+D:\Projects\ImageHandler\ImageHandler\bin\Debug\_4nesoRotator_v2.pdb
+D:\Projects\ImageHandler\ImageHandler\obj\Debug\_4nesoRotator_v2.exe
+D:\Projects\ImageHandler\ImageHandler\obj\Debug\_4nesoRotator_v2.pdb
